@@ -1,2 +1,0 @@
-# instagram_clone
-Kodluyoruz_instagram_clone
